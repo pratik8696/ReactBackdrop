@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+.formsize{
+  margin-top:4rem ;
+  display: flex;
+  justify-content: center;
+}
